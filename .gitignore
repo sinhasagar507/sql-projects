@@ -79,7 +79,7 @@ target/
 .ipynb_checkpoints
 
 # Files
-.DS_store
+.DS_Store
 
 # IPython
 profile_default/
