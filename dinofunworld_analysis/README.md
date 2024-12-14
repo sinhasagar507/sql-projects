@@ -138,4 +138,5 @@ Analyze time-series data to help the administrators of Dino Fun World understand
    ```bash
    git clone https://github.com/yourusername/dino-fun-world.git
    ```
-2. 
+2. Create a virtual environment using `venv` and install the dependencies from `requirements.txt`
+3. Run the notebooks
